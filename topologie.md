@@ -16,7 +16,7 @@ Sieci fizyczne odnoszą się do fizycznego ułożenia kabli, i połączeń. Przy
 -zalety: małe zużycie przewodów
 -gdzie stosowane: w średnich sieciach lan
 
-##Sieci logiczne
+## Sieci logiczne
 Sieci logiczne opisują sposób przesyłania danych między urządzeniami, niezależnie od fizycznej struktury. Przykłady: 
 -**Punktu-punkt**(Point-to-Point) charakteryzuje się bezpośrednim połączeniem między dwoma węzłami sieci.
 -wady: ciężko o dużą ilość połączeń, jedeno zerwane połączenie zarzymuje całą komunikacje
